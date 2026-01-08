@@ -1,7 +1,7 @@
 # EN-US:
 
 # 📄 Repository Description
-This Java project features an interactive menu in the terminal, where the user can choose from eight different options to calculate the areas and perimeters of plane geometric figures. The program uses a chained if conditional structure to decide which operation to perform based on the user's choice.
+This Java SE project features an interactive menu in the terminal, where the user can choose from eight different options to calculate the areas and perimeters of plane geometric figures. The program uses a chained if conditional structure to decide which operation to perform based on the user's choice.
 
 ## The menu offers:
 
@@ -31,7 +31,7 @@ https://github.com/JG-silv
 # PT-BR:
 
 ## 📄 Descrição para o repositório
-Este projeto em Java apresenta um menu interativo no terminal, onde o usuário pode escolher entre oito opções diferentes para calcular áreas e perímetros de figuras geométricas planas. O programa utiliza estrutura condicional if encadeada para decidir qual operação realizar com base na escolha do usuário.
+Este projeto em Java SE apresenta um menu interativo no terminal, onde o usuário pode escolher entre oito opções diferentes para calcular áreas e perímetros de figuras geométricas planas. O programa utiliza estrutura condicional if encadeada para decidir qual operação realizar com base na escolha do usuário.
 
 ## O menu oferece:
 
