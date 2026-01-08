@@ -22,7 +22,7 @@ This Java SE project features an interactive menu in the terminal, where the use
 ✅ Perimeter of a circle
 
 📌 This exercise was done without the use of external libraries, using only Scanner, Math.PI, and if/else.
-Ideal for practicing conditional structures, data entry with Scanner, and basic mathematical calculations.**
+Ideal for practicing conditional structures, data entry with Scanner, and basic mathematical calculations.
 ## Author:
 ```bash
 https://github.com/JG-silv
